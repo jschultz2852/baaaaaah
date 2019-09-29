@@ -34,5 +34,6 @@ function createTable() {
 }
 
 function readTextFile(){
-  alert("please");
+  w = window.open('mydata2.csv');
+  alert(w);
 }
